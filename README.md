@@ -71,19 +71,7 @@ No requiere build ni dependencias. Solo abre [index.html](index.html) en el nave
 
 ### Modal de detalle
 
-![Modal de detalle](screenshots/modal-detalle.png)
-
-## Guia rapida para tomar capturas
-
-1. Abre la app en pantalla completa.
-2. Captura 4 pantallas:
-   - Vista inicial con varias cartas.
-   - Filtro aplicado (ejemplo: Epic o Spell).
-   - Resultado de una busqueda y un orden visible.
-   - Modal abierto con detalle de una carta.
-3. Renombra exactamente como la lista anterior.
-4. Copia los archivos a [screenshots](screenshots).
-5. Haz commit de [README.md](README.md) y de las imagenes.
+![Modal de detalle](screenshots/detalle-carta.png)
 
 ## Autores
 
