@@ -41,7 +41,7 @@ No requiere build ni dependencias. Solo abre [index.html](index.html) en el nave
 
 ### Opcion 1: abrir directo
 
-1. Abre [https://nessisx.github.io/Clash-API-REST/](Pagina) en el navegador.
+1. Abre [Pagina](https://nessisx.github.io/Clash-API-REST/) en el navegador.
 
 ### Opcion 2: servidor local con Python
 
